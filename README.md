@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [Alex Kondratiuk](https://github.com/ak8000)
 - [Janet](https://github.com/jp6024)
 - [Isaac](https://github.com/iok206)
-- [Adam](https://github.com/aschwartz01)
+- [Adam Schwartz](https://github.com/aschwartz01)
 
 ## Stakeholders
 
