@@ -18,8 +18,10 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
+- As a user, I would like to add many tasks, so I can keep track of what I need to do.
+- As a user, I would like to set priorities to tasks, so I can handle tasks with higher priority first.
+- As a user, I would like to be able to delete tasks, so I can remove the tasks that are no longer applicable.
+(See instructions. Delete this line and place a list of your User Stories here.)
 
 ## Activity Diagrams
 
