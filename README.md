@@ -19,13 +19,14 @@ Our task planner empowers users to effortlessly manage tasks and deadlines, enha
 
 ## User Requirements
 - As a user, I want to have an account, so I can login from different phones and save tasks.
-- As a user, I want to be able to be able to restore my password, so I can restore it in case I forger it.
-- As a user, I want to add  tasks, so I can keep track of what I need to do.
+- As a user, I want to be able to be able to restore my password, so I can restore it in case I forget it.
+- As a user, I want to add tasks, so I can keep track of what I need to do.
 - As a user, I want to be able to set deadlines to tasks, so I can manage my time and meet my obligations.
 - As a user, I want to set priorities to tasks, so I can handle tasks with higher priority first.
 - As a user, I want to be able to delete tasks, so I can remove the tasks that are no longer applicable.
 - As a user, I want to be able to edit the tasks, so I can modify them as needed.
-
+- As a user, I want to be alerted when certain deadlines are approaching, so that I can keep on top of my tasks.
+- As a user, I want to be able to categorize certain tasks, so that I can easily see which tasks are coming in certain areas.
 
 ## Activity Diagrams
 
