@@ -15,13 +15,17 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our task planner empowers users to effortlessly manage tasks and deadlines, enhancing productivity and organization on the go
 
 ## User Requirements
-- As a user, I would like to add many tasks, so I can keep track of what I need to do.
-- As a user, I would like to set priorities to tasks, so I can handle tasks with higher priority first.
-- As a user, I would like to be able to delete tasks, so I can remove the tasks that are no longer applicable.
-(See instructions. Delete this line and place a list of your User Stories here.)
+- As a user, I want to have an account, so I can login from different phones and save tasks.
+- As a user, I want to be able to be able to restore my password, so I can restore it in case I forger it.
+- As a user, I want to add  tasks, so I can keep track of what I need to do.
+- As a user, I want to be able to set deadlines to tasks, so I can manage my time and meet my obligations.
+- As a user, I want to set priorities to tasks, so I can handle tasks with higher priority first.
+- As a user, I want to be able to delete tasks, so I can remove the tasks that are no longer applicable.
+- As a user, I want to be able to edit the tasks, so I can modify them as needed.
+
 
 ## Activity Diagrams
 
