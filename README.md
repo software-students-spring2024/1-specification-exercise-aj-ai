@@ -29,8 +29,9 @@ Our task planner empowers users to effortlessly manage tasks and deadlines, enha
 - As a user, I want to be able to categorize certain tasks, so that I can easily see which tasks are coming in certain areas.
 
 ## Activity Diagrams
+As a user, I want to have an account, so I can login from different phones and save tasks.
+<img width="802" alt="Screen Shot 2024-02-07 at 9 37 44 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-aj-ai/assets/132626149/da8b4f24-e9af-4123-9e43-db7af9af9a9e">
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
