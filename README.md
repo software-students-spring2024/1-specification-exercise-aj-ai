@@ -32,6 +32,8 @@ Our task planner empowers users to effortlessly manage tasks and deadlines, enha
 ## Activity Diagrams
 As a user, I want to have an account, so I can login from different phones and save tasks.
 <img width="860" alt="Screen Shot 2024-02-07 at 9 40 04 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-aj-ai/assets/132626149/4091dc91-7a69-4695-b7d7-863807a135c4">
+
+
 As a user, I want to add tasks, so I can keep track of what I need to do.
 <img width="802" alt="Screen Shot 2024-02-07 at 9 37 44 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-aj-ai/assets/132626149/da8b4f24-e9af-4123-9e43-db7af9af9a9e">
 
