@@ -27,7 +27,6 @@ Our task planner empowers users to effortlessly manage tasks and deadlines, enha
 - As a user, I want to be able to delete tasks, so I can remove the tasks that are no longer applicable.
 - As a user, I want to be able to edit the tasks, so I can modify them as needed.
 - As a user, I want to be alerted when certain deadlines are approaching, so that I can keep on top of my tasks.
-- As a user, I want to be able to categorize certain tasks, so that I can easily see which tasks are coming in certain areas.
 
 ## Activity Diagrams
 As a user, I want to have an account, so I can login from different phones and save tasks.
