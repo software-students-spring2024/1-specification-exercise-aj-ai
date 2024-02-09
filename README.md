@@ -35,7 +35,8 @@ As a user, I want to have an account, so I can login from different phones and s
 
 
 As a user, I want to add tasks, so I can keep track of what I need to do.
-<img width="802" alt="Screen Shot 2024-02-07 at 9 37 44 PM" src="https://github.com/software-students-spring2024/1-specification-exercise-aj-ai/assets/132626149/da8b4f24-e9af-4123-9e43-db7af9af9a9e">
+![Screen Shot 2024-02-09 at 9 55 00 AM](https://github.com/software-students-spring2024/1-specification-exercise-aj-ai/assets/132626149/6e9a84fb-2356-4221-9b74-b1c4a30053fa)
+
 
 ## Clickable Prototype
 
