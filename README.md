@@ -13,6 +13,11 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+Blaine Browning:
+Blaine is a senior at NYU who is currently taking many classes as he finishes the requirements for graduation. He needs to stay on top of his assignments as he does not want to jeopardize his graduation by not passing a class. He also is applying for jobs and hopes to get one soon after graduation. Additionally, Blaine wants to have time to hang out with friends and enjoy his senior spring semester. Blaine is focused firstly on keeping up with his academics, then with finding employment, and finally will devote time to spend with friends during his final college days.
+
+Blaine sometimes gets frustrated using Brightspace as he does not want to constantly go through the different pages to find when his assignments are due, especailly because he is taking five classes. He also does not enjoy having to use Brightspace through his phone web browser that requires his log in verification every time his logs on. Blaine gets similarly frustrated trying to keep track of the various job application due dates that are scattered across different websites. Sometimes Blaine misprioritizes certain tasks and ends up spending more time on tasks that are less important, leaving him with less time for more vital tasks.
+
 ## Product Vision Statement
 
 Our task planner empowers users to effortlessly manage tasks and deadlines, enhancing productivity and organization on the go
@@ -27,6 +32,7 @@ Our task planner empowers users to effortlessly manage tasks and deadlines, enha
 - As a user, I want to be able to delete tasks, so I can remove the tasks that are no longer applicable.
 - As a user, I want to be able to edit the tasks, so I can modify them as needed.
 - As a user, I want to be alerted when certain deadlines are approaching, so that I can keep on top of my tasks.
+- As a user, I want the ability to see tasks that are past due, so I can know whether I failed to complete a task.
 
 ## Activity Diagrams
 As a user, I want to have an account, so I can login from different phones and save tasks.
