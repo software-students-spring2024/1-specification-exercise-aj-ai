@@ -18,6 +18,7 @@ Blaine is a senior at NYU who is currently taking many classes as he finishes th
 Blaine sometimes gets frustrated using Brightspace as he does not want to constantly go through the different pages to find when his assignments are due, especially because he is taking five classes. He also does not enjoy having to use Brightspace through his phone web browser that requires his log in verification every time his logs on. Blaine gets similarly frustrated trying to keep track of the various job application due dates that are scattered across different websites. Sometimes Blaine misprioritizes certain tasks and ends up spending more time on tasks that are less important, leaving him with less time for more vital tasks.
 
 Advika:
+
 Advika is an NYU graduate who is currently working full-time while still managing other tasks in her life. She struggles to find a balance that works for her and has been wanting to create a plan to track tasks in order to keep her accountable throughout the day.
 
 Traditional planners haven't worked for her, but her phone is something that she has on her at all times and finds convenient. She wants to be able to feel the satisfaction of seeing a summary of tasks she was able to accomplish, as well as having the ability to set tasks with deadlines for herself and then be able to cross them out. This is also helpful to her because she can also categorize priority tasks for herself outside of work -- ie, washing the dishes or getting groceries.
