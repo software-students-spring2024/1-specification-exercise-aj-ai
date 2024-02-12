@@ -44,4 +44,5 @@ As a user, I want to add tasks, so I can keep track of what I need to do.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[https://www.figma.com/proto/Y3MGcKUsizCb0CQXKi9q84/Task-Tracker-App?type=design&node-id=5-6&t=fUMu7CEx8Vi4GIjX-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A6&mode=design]
+
